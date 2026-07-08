@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: sushma
+- Roll Number: N/A
+- Section: N/A
+- GitHub Username: Sushma1031-bot
